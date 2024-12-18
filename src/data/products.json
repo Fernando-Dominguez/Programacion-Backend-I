@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"title": "Altavoz Bluetooth",
+		"description": "Altavoz Bluetooth portátil con sonido de alta calidad.",
+		"code": "AB5005",
+		"price": 89.99,
+		"status": true,
+		"stock": 100,
+		"category": "Audio",
+		"thumbnails": "image1.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Boligrafo",
+		"description": "Metalica",
+		"price": 500,
+		"thumbnails": "image2.jpg",
+		"code": "AI3003",
+		"stock": 150,
+		"category": "Accesorios",
+		"status": true
+	},
+	{
+		"id": 3,
+		"title": "Teléfono Inteligente",
+		"description": "Un elegante teléfono inteligente con una cámara potente y un procesador rápido.",
+		"code": "TI2002",
+		"price": 599.99,
+		"status": true,
+		"stock": 30,
+		"category": "Electrónica",
+		"thumbnails": "image3.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Portátil",
+		"description": "Un portátil de alto rendimiento adecuado para todas tus necesidades informáticas.",
+		"code": "LP1001",
+		"price": 999.99,
+		"status": true,
+		"stock": 20,
+		"category": "Electrónica",
+		"thumbnails": "image4.jpg"
+	}
+]
